@@ -10,13 +10,19 @@
     "formation",
     "example"
   ],
-  "author": {
-    "name": "bnk",
-    "email": "yassine.benkhallouf@gmail.com"
-  },
+  "author": "bnk <yassine.benkhallouf@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "async": "^2.6.1",
     "https": "^1.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yassinebnk/bnk_js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yassinebnk/bnk_js/issues"
+  },
+  "homepage": "https://github.com/yassinebnk/bnk_js#readme"
 }

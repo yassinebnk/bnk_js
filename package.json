@@ -1,0 +1,22 @@
+{
+  "name": "21_11_index",
+  "version": "1.0.0",
+  "description": "Formation Alphorm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "formation",
+    "example"
+  ],
+  "author": {
+    "name": "bnk",
+    "email": "yassine.benkhallouf@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "https": "^1.0.0"
+  }
+}
